@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permission Stevda</string>
+    <string name="button_txt">Request Permission</string>
+    <string name="text_view_txt">Permission Granted!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
